@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: swift iOS
+tagline: swift iOS
 ---
 {% include JB/setup %}
 
