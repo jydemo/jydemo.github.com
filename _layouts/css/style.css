@@ -7,7 +7,7 @@
 }
 /* =======================================================
 *
-* 	Template Style 
+* 	Template Style
 *	Edit this section
 *
 * ======================================================= */
@@ -158,10 +158,10 @@ h1, h2, h3, h4, h5, h6 {
 
   .but {
     display: inline-block;
-    font-family: 'Lato', Helvetica, Arial, sans-serif;   
+    font-family: 'Lato', Helvetica, Arial, sans-serif;
     font-weight: 300;
     font-size: 1rem;
-    font-size: 16px;    
+    font-size: 16px;
     padding: 0 45px;
     line-height: 55px;
     background-color: #F10061;
@@ -805,3 +805,18 @@ section.section-padding.gray-bg {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+/* =======================================================
+*
+* 	厂貌展示样式
+*	Edit this section
+*
+* ======================================================= */
+
+
+section.section-padding.gray-bg {
+    background: #f3f3f3;
+    padding: 60px;
+    color: #484848;
+}
