@@ -4,7 +4,7 @@ email: cyin15288@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   swift is bester!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://code4swift.pw" # the base hostname & protocol for your site
+url: "https://jydemo.github.io" # the base hostname & protocol for your site
 twitter_username: cyin15288
 github_username:  jydemo
 
