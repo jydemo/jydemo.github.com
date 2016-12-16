@@ -1,21 +1,12 @@
 ---
-layout: page
+layout: no-about-page
 title: About
 permalink: /about/
+image: /images/pic02.jpg
 ---
-<div class="mt50"></div>
 
-Webjeda Gatok is a Bootstrap based theme. Any Bootstrap element can be used in the theme.
+This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 
-The name Gatok is a short form of [Ghatotkacha](https://en.wikipedia.org/wiki/Ghatotkacha){: target="_blank"} who was a monster in the Hindu mythology Mahabharatha.
+You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
 
-![Gatok Jekyll Theme]({{site.baseurl}}/images/gatok.jpg)
-
-He is someone you shouldn't be messing with!
-![Gatok Jekyll Theme]({{site.baseurl}}/images/gatok-2.jpg)
-
-
-[**Watch his story**](https://www.youtube.com/watch?v=6gYv6S1dCqs){: target="_blank"}
-
-
-Read [Webjeda Blog](http://blog.webjeda.com){: target="_blank"} for jekyll tutorials. 
+You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
